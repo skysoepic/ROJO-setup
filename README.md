@@ -9,11 +9,12 @@ A guide on how to set up ROJO for the first time.
 
 ## Installing
 
-#### First, install Visual Studio Code and Roblox Studio
-#### Secondly: Create a new project on Roblox 
-#### Once the project is created, add a new script in any place
-#### After the script has been added, Go to File and press Save to File As
-#### Next, you save the project as an 'rbxlx' file (Not a "rbxl" file)
-#### Now, the project has been added as an 'rbxlx' file, we now move onto setting up Rojo
+#### 1. Install Roblox Studio and Visual Studio Code if you haven't already
+#### 2.  
+#### 
+#### 
+#### 
+#### 
 
 ## Setting up Rojo
+
