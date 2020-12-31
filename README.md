@@ -10,8 +10,8 @@ A guide on how to set up ROJO for the first time.
 ## Installing
 
 #### 1. Install Roblox Studio and Visual Studio Code if you haven't already
-#### 2.  
-#### 
+#### 2. Create a new project on Roblox Studio. (or use a project you've already created)
+#### 3. 
 #### 
 #### 
 #### 
